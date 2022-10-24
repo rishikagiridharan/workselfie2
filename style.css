@@ -1,0 +1,19 @@
+body
+{
+background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
+}
+
+.message_h1
+{
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.message_h4
+{
+	font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#camera {
+    width:500px;
+    height:400px;
+}
